@@ -1,1 +1,3 @@
 hello git master and study_git 1
+Edit data of brother Hieu. 
+Hii How are you?
